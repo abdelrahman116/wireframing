@@ -79,3 +79,73 @@ A filter dropdown for price range
 A search bar with a calendar date picker
 
 A “Book Now” button on each hotel card
+
+
+Wireframe Fidelity: Low-Fidelity vs. High-Fidelity
+Wireframes come in different levels of fidelity, which refers to how closely the wireframe resembles the final product in terms of detail, design, and interactivity.
+
+## 🟤 Low-Fidelity Wireframes
+Definition:
+Basic sketches or digital outlines that focus on structure and layout, not appearance or detailed interaction.
+
+Characteristics:
+
+Black and white or grayscale
+
+Placeholder content (e.g., “Image here” or “Lorem ipsum” text)
+
+Simple shapes (boxes, lines, circles)
+
+No styling or interactivity
+
+When to Use:
+
+Early in the design process
+
+During brainstorming and ideation
+
+When quickly validating structure and user flow
+
+When communicating ideas without visual distractions
+
+Example Use Case:
+Sketching the layout of a hotel booking app’s homepage to agree on where the search bar, filters, and listings go.
+
+## ⚫ High-Fidelity Wireframes
+Definition:
+Detailed wireframes that closely resemble the final design, including visual design elements and interactions.
+
+Characteristics:
+
+Includes real or near-final content
+
+Full layout, typography, colors, and spacing
+
+Interactive components like dropdowns, buttons, hover effects
+
+May include functional prototypes or animations
+
+When to Use:
+
+Later in the design process
+
+For user testing, presentations, or developer handoff
+
+When validating specific UI decisions (e.g., color contrast, button sizes)
+
+Example Use Case:
+Designing a clickable prototype of the checkout process with real hotel data, payment options, and transitions.
+
+## 🧾 What Type of Wireframe is This?
+Link: Figma – Project Airbnb
+
+🔎 Analysis:
+This Figma design features:
+
+Realistic layout with colors, icons, fonts, and spacing
+
+Functional components like filters, search bars, and listing cards
+
+Detailed visual hierarchy and content
+
+Pixel-perfect spacing and structure
