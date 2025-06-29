@@ -1,4 +1,4 @@
-# wireframing
+# Wireframing
 Wireframing: Key Elements and Their Role in Design
 Wireframing is the process of creating a visual blueprint of a user interface before the actual design and development begin. It focuses on structure and functionality, not colors or branding. A wireframe helps product teams, developers, and stakeholders visualize how users will interact with the system.
 
@@ -149,3 +149,35 @@ Functional components like filters, search bars, and listing cards
 Detailed visual hierarchy and content
 
 Pixel-perfect spacing and structure
+
+## Recommended Tool: Figma
+Figma is a cloud-based design and prototyping tool widely used by designers, developers, and product teams to create wireframes, UI designs, and interactive prototypes—all in one place.
+
+## 🧰 Key Features of Figma
+Web-Based & Collaborative:
+No software installation needed. Multiple users can edit and comment in real-time, making it ideal for remote teams.
+
+Design & Wireframe in One Tool:
+You can start with low-fidelity wireframes and gradually evolve them into high-fidelity mockups without switching tools.
+
+Pre-built UI Kits & Templates:
+Offers libraries, plugins, and reusable components to speed up design and maintain consistency.
+
+Prototyping & Interactions:
+Add clickable flows, hover states, and transitions to demonstrate how the interface works.
+
+Version Control:
+Keep track of changes and roll back to previous versions as needed—no more saving multiple files.
+
+Developer Handoff:
+Developers can inspect designs, copy CSS, and download assets directly—no back-and-forth needed.
+
+## ✅ Why Figma is Great for Wireframing
+Fast and Intuitive:
+Drag-and-drop interface makes it easy to build layouts without design experience.
+
+Scalable:
+Use it for everything from early sketches to polished interfaces and prototypes.
+
+Team-Friendly:
+Real-time collaboration ensures everyone stays aligned during design reviews and iterations.
