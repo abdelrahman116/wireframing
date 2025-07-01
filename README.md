@@ -80,7 +80,7 @@ A search bar with a calendar date picker
 
 A “Book Now” button on each hotel card
 
-
+## Types of Wireframes
 Wireframe Fidelity: Low-Fidelity vs. High-Fidelity
 Wireframes come in different levels of fidelity, which refers to how closely the wireframe resembles the final product in terms of detail, design, and interactivity.
 
